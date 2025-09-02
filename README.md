@@ -25,4 +25,6 @@ Online Shop:
 
 Also each issue in the project must have a comment with sign off from reviewer that task is fully done.
 
+
+Куликов Руслан Игоревич
 ## Good Luck!
